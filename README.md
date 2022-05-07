@@ -1,1 +1,1 @@
-# project2-collgeInternRequirement
+# Project2-InternRequirement
